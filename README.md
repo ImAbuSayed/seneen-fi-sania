@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك تسرق مني السهر
+> ولمسة إيدك تحيي القمر
+> في قلبك ألقى كل الأثر
+> وياك أعيش أحلى قدر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
